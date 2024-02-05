@@ -11,3 +11,6 @@
 /HundDataAPI/HundDataAPI.Data/obj
 /HundDataAPI/HundDataAPI.Test/obj
 *.user
+/HundDataAPI/.vs/HundDataAPI/DesignTimeBuild
+/HundDataAPI/.vs/HundDataAPI/v17
+/HundDataAPI/.vs/ProjectEvaluation
